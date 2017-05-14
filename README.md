@@ -1,9 +1,14 @@
 # why?
 ![why](https://github.com/Ben-Hwang/apjson/blob/master/img/why.png)
 
+# install
+```
+npm install apjson
+```
+
 # how to use?
 ```javascript
-const Apjson = require("../index");
+const Apjson = require("apjson");
 const jsonFile = new Apjson("example.json");
 
 jsonFile.append({title: "hello, world"});
