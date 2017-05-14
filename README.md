@@ -15,3 +15,14 @@ jsonFile.append({
 
 jsonFile.close();
 ```
+
+## new Apjson(path, [space])
+**path** `string` 
+**space** `number` *default: 2* 
+
+## Apjson.prototype.append(item)
+**item** `object`
+append stringified object
+
+## Apjson.prototype.close()
+when you are not adding more, close the writable stream.
