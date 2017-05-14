@@ -1,0 +1,30 @@
+{
+  "name": "apjson",
+  "version": "1.0.0",
+  "description": "append json file in correct format and more easy.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ben-Hwang/apjson.git"
+  },
+  "keywords": [
+    "json",
+    "fs",
+    "append",
+    "write"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ben-Hwang/apjson/issues"
+  },
+  "homepage": "https://github.com/Ben-Hwang/apjson#readme"
+}
