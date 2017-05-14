@@ -17,11 +17,17 @@ jsonFile.close();
 ```
 
 ## new Apjson(path, [space])
-**path** `string` 
-**space** `number` *default: 2* 
+| parameter | type | default |
+| -- | -- | -- |
+| path | string | null |
+| space | number | 2 |
+
 
 ## Apjson.prototype.append(item)
-**item** `object`
+| parameter | type | 
+| -- | -- |
+| item | object |
+
 append stringified object
 
 ## Apjson.prototype.close()
