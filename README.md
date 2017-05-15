@@ -1,5 +1,5 @@
 # why?
-![why](https://raw.githubusercontent.com/Ben-Hwang/Ben-Hwang.github.io/apjson/blob/master/img/why.png)
+![why](https://raw.githubusercontent.com/Ben-Hwang/apjson/master/img/why.png)
 
 # install
 ```
